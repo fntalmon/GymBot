@@ -1,5 +1,6 @@
 const { Telegraf } = require('telegraf');
 const mongoose = require('mongoose');
+const http = require('http');
 require('dotenv').config();
 
 // Import models and services
@@ -11,6 +12,22 @@ const ExerciseService = require('./services/ExerciseService');
 
 // Initialize bot
 const bot = new Telegraf(process.env.BOT_TOKEN);
+
+// Create HTTP server for Render health checks
+const PORT = process.env.PORT || 3000;
+const server = http.createServer((req, res) => {
+  if (req.url === '/health' || req.url === '/') {
+    res.writeHead(200, { 'Content-Type': 'text/plain' });
+    res.end('GymBot is running!\n');
+  } else {
+    res.writeHead(404);
+    res.end('Not found\n');
+  }
+});
+
+server.listen(PORT, () => {
+  console.log(`🌐 HTTP server listening on port ${PORT}`);
+});
 
 // Connect to MongoDB
 mongoose.connect(process.env.MONGO_URI)
