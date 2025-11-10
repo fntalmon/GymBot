@@ -1,0 +1,1277 @@
+[
+  {
+    "name": {
+      "en": "Push-ups",
+      "es": "Flexiones"
+    },
+    "category": "chest_biceps",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "8-10" },
+      "intermediate": { "sets": 3, "reps": "12-15" },
+      "advanced": { "sets": 4, "reps": "15-20" }
+    },
+    "description": {
+      "en": "Classic upper body compound exercise targeting chest, shoulders, and triceps",
+      "es": "Ejercicio compuesto clásico del tren superior que trabaja pecho, hombros y tríceps"
+    },
+    "tips": {
+      "en": "Keep your body straight like a plank, hands shoulder-width apart",
+      "es": "Mantén el cuerpo recto como una plancha, manos separadas al ancho de hombros"
+    },
+    "alternatives": {
+      "en": ["Knee push-ups", "Incline push-ups", "Wall push-ups"],
+      "es": ["Flexiones de rodillas", "Flexiones inclinadas", "Flexiones de pared"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=IODxDxX7oi4"
+  },
+  {
+    "name": {
+      "en": "Chest Press",
+      "es": "Press de Pecho"
+    },
+    "category": "chest_biceps",
+    "environment": "gym",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "8-10" },
+      "intermediate": { "sets": 3, "reps": "10-12" },
+      "advanced": { "sets": 4, "reps": "8-10" }
+    },
+    "description": {
+      "en": "Fundamental chest exercise using barbell or dumbbells",
+      "es": "Ejercicio fundamental de pecho usando barra o mancuernas"
+    },
+    "tips": {
+      "en": "Control the weight, full range of motion, squeeze at the top",
+      "es": "Controla el peso, rango completo de movimiento, aprieta arriba"
+    },
+    "alternatives": {
+      "en": ["Dumbbell press", "Machine chest press", "Push-ups"],
+      "es": ["Press con mancuernas", "Press en máquina", "Flexiones"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=rT7DgCr-3pg"
+  },
+  {
+    "name": {
+      "en": "Bicep Curls",
+      "es": "Curl de Bíceps"
+    },
+    "category": "chest_biceps",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "10-12" },
+      "intermediate": { "sets": 3, "reps": "12-15" },
+      "advanced": { "sets": 4, "reps": "12-15" }
+    },
+    "description": {
+      "en": "Isolation exercise for bicep muscle development",
+      "es": "Ejercicio de aislamiento para el desarrollo del músculo bíceps"
+    },
+    "tips": {
+      "en": "Keep elbows stationary, control the negative, squeeze at the top",
+      "es": "Mantén los codos fijos, controla la bajada, aprieta arriba"
+    },
+    "alternatives": {
+      "en": ["Hammer curls", "Resistance band curls", "Concentration curls"],
+      "es": ["Curl martillo", "Curl con banda", "Curl concentrado"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "name": {
+      "en": "Incline Push-ups",
+      "es": "Flexiones Inclinadas"
+    },
+    "category": "chest_biceps",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "10-12" },
+      "intermediate": { "sets": 3, "reps": "15-18" },
+      "advanced": { "sets": 4, "reps": "18-25" }
+    },
+    "description": {
+      "en": "Upper chest focused push-up variation using elevation",
+      "es": "Variación de flexiones enfocada en pecho superior usando elevación"
+    },
+    "tips": {
+      "en": "Use bench or chair, lean forward slightly, focus on upper chest",
+      "es": "Usa banco o silla, inclínate ligeramente hacia adelante, enfócate en pecho superior"
+    },
+    "alternatives": {
+      "en": ["Regular push-ups", "Chest fly", "Dips"],
+      "es": ["Flexiones regulares", "Aperturas", "Fondos"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=cfOz1ERDuke"
+  },
+  {
+    "name": {
+      "en": "Diamond Push-ups",
+      "es": "Flexiones Diamante"
+    },
+    "category": "chest_biceps",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 2, "reps": "5-8" },
+      "intermediate": { "sets": 3, "reps": "8-12" },
+      "advanced": { "sets": 3, "reps": "12-15" }
+    },
+    "description": {
+      "en": "Advanced push-up variation targeting triceps and inner chest",
+      "es": "Variación avanzada de flexiones que trabaja tríceps y pecho interno"
+    },
+    "tips": {
+      "en": "Form diamond with hands, keep elbows close to body",
+      "es": "Forma un diamante con las manos, mantén codos cerca del cuerpo"
+    },
+    "alternatives": {
+      "en": ["Close-grip push-ups", "Tricep push-ups", "Regular push-ups"],
+      "es": ["Flexiones agarre cerrado", "Flexiones de tríceps", "Flexiones regulares"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=J0DnG1_S92I"
+  },
+  {
+    "name": {
+      "en": "Chest Fly",
+      "es": "Aperturas de Pecho"
+    },
+    "category": "chest_biceps",
+    "environment": "gym",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "10-12" },
+      "intermediate": { "sets": 3, "reps": "12-15" },
+      "advanced": { "sets": 4, "reps": "12-15" }
+    },
+    "description": {
+      "en": "Isolation exercise for chest muscle development and stretch",
+      "es": "Ejercicio de aislamiento para desarrollo y estiramiento del pecho"
+    },
+    "tips": {
+      "en": "Slight bend in elbows, feel stretch at bottom, squeeze at top",
+      "es": "Ligera flexión en codos, siente el estiramiento abajo, aprieta arriba"
+    },
+    "alternatives": {
+      "en": ["Pec deck", "Cable fly", "Push-ups"],
+      "es": ["Peck deck", "Aperturas con polea", "Flexiones"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=eozdVDA78K0"
+  },
+  {
+    "name": {
+      "en": "Hammer Curls",
+      "es": "Curl Martillo"
+    },
+    "category": "chest_biceps",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "10-12" },
+      "intermediate": { "sets": 3, "reps": "12-15" },
+      "advanced": { "sets": 4, "reps": "15-18" }
+    },
+    "description": {
+      "en": "Bicep exercise targeting different muscle fibers with neutral grip",
+      "es": "Ejercicio de bíceps que trabaja fibras musculares diferentes con agarre neutro"
+    },
+    "tips": {
+      "en": "Keep thumbs up, control movement, alternate arms",
+      "es": "Mantén pulgares arriba, controla el movimiento, alterna brazos"
+    },
+    "alternatives": {
+      "en": ["Regular bicep curls", "Cross-body hammer curls", "Cable curls"],
+      "es": ["Curl de bíceps regular", "Curl martillo cruzado", "Curl con polea"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=zC3nLlEvin4"
+  },
+  {
+    "name": {
+      "en": "Dumbbell Pullovers",
+      "es": "Pullover con Mancuerna"
+    },
+    "category": "chest_biceps",
+    "environment": "gym",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "10-12" },
+      "intermediate": { "sets": 3, "reps": "12-15" },
+      "advanced": { "sets": 4, "reps": "12-15" }
+    },
+    "description": {
+      "en": "Chest and lat exercise that expands ribcage and improves flexibility",
+      "es": "Ejercicio de pecho y dorsales que expande la caja torácica y mejora flexibilidad"
+    },
+    "tips": {
+      "en": "Keep slight elbow bend, feel stretch, breathe deeply",
+      "es": "Mantén ligera flexión en codos, siente el estiramiento, respira profundo"
+    },
+    "alternatives": {
+      "en": ["Cable pullovers", "Chest stretch", "Lat pulldowns"],
+      "es": ["Pullover con polea", "Estiramiento de pecho", "Jalones dorsales"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=FK8zpxmDbqA"
+  },
+  {
+    "name": {
+      "en": "Pull-ups",
+      "es": "Dominadas"
+    },
+    "category": "back_triceps",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "3-5" },
+      "intermediate": { "sets": 3, "reps": "6-10" },
+      "advanced": { "sets": 4, "reps": "10-15" }
+    },
+    "description": {
+      "en": "Compound upper body exercise targeting lats, rhomboids, and biceps",
+      "es": "Ejercicio compuesto del tren superior que trabaja dorsales, romboides y bíceps"
+    },
+    "tips": {
+      "en": "Full hang, pull with back muscles, squeeze shoulder blades",
+      "es": "Cuelgue completo, tira con músculos de la espalda, aprieta omóplatos"
+    },
+    "alternatives": {
+      "en": ["Assisted pull-ups", "Lat pulldowns", "Inverted rows"],
+      "es": ["Dominadas asistidas", "Jalones dorsales", "Remo invertido"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+  },
+  {
+    "name": {
+      "en": "Bent Over Row",
+      "es": "Remo Inclinado"
+    },
+    "category": "back_triceps",
+    "environment": "gym",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "8-10" },
+      "intermediate": { "sets": 3, "reps": "10-12" },
+      "advanced": { "sets": 4, "reps": "10-12" }
+    },
+    "description": {
+      "en": "Fundamental back exercise using barbell or dumbbells",
+      "es": "Ejercicio fundamental de espalda usando barra o mancuernas"
+    },
+    "tips": {
+      "en": "Keep back straight, pull to lower chest, squeeze shoulder blades",
+      "es": "Mantén espalda recta, tira hacia pecho inferior, aprieta omóplatos"
+    },
+    "alternatives": {
+      "en": ["Dumbbell rows", "Cable rows", "T-bar rows"],
+      "es": ["Remo con mancuernas", "Remo en polea", "Remo en T"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=FWJR5Ve8bnQ"
+  },
+  {
+    "name": {
+      "en": "Tricep Dips",
+      "es": "Fondos de Tríceps"
+    },
+    "category": "back_triceps",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "8-10" },
+      "intermediate": { "sets": 3, "reps": "12-15" },
+      "advanced": { "sets": 4, "reps": "15-20" }
+    },
+    "description": {
+      "en": "Bodyweight exercise targeting triceps and shoulders",
+      "es": "Ejercicio con peso corporal que trabaja tríceps y hombros"
+    },
+    "tips": {
+      "en": "Keep legs extended, lower slowly, push through palms",
+      "es": "Mantén piernas extendidas, baja lentamente, empuja con palmas"
+    },
+    "alternatives": {
+      "en": ["Assisted dips", "Tricep pushdowns", "Close-grip push-ups"],
+      "es": ["Fondos asistidos", "Extensiones de tríceps", "Flexiones agarre cerrado"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "name": {
+      "en": "Lat Pulldowns",
+      "es": "Jalones Dorsales"
+    },
+    "category": "back_triceps",
+    "environment": "gym",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "10-12" },
+      "intermediate": { "sets": 3, "reps": "12-15" },
+      "advanced": { "sets": 4, "reps": "12-15" }
+    },
+    "description": {
+      "en": "Machine exercise targeting latissimus dorsi and upper back",
+      "es": "Ejercicio en máquina que trabaja dorsal ancho y espalda superior"
+    },
+    "tips": {
+      "en": "Pull to upper chest, lean back slightly, squeeze lats",
+      "es": "Tira hacia pecho superior, inclínate ligeramente, aprieta dorsales"
+    },
+    "alternatives": {
+      "en": ["Pull-ups", "Cable rows", "Inverted rows"],
+      "es": ["Dominadas", "Remo en polea", "Remo invertido"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "name": {
+      "en": "Overhead Tricep Extension",
+      "es": "Extensión de Tríceps por Encima"
+    },
+    "category": "back_triceps",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "10-12" },
+      "intermediate": { "sets": 3, "reps": "12-15" },
+      "advanced": { "sets": 4, "reps": "15-18" }
+    },
+    "description": {
+      "en": "Isolation exercise for tricep muscle development",
+      "es": "Ejercicio de aislamiento para desarrollo del músculo tríceps"
+    },
+    "tips": {
+      "en": "Keep elbows stationary, full range of motion, control weight",
+      "es": "Mantén codos fijos, rango completo de movimiento, controla el peso"
+    },
+    "alternatives": {
+      "en": ["Tricep pushdowns", "Dips", "Close-grip push-ups"],
+      "es": ["Extensiones en polea", "Fondos", "Flexiones agarre cerrado"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=YbX7Wd8jQ-Q"
+  },
+  {
+    "name": {
+      "en": "Face Pulls",
+      "es": "Jalones Faciales"
+    },
+    "category": "back_triceps",
+    "environment": "gym",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "12-15" },
+      "intermediate": { "sets": 3, "reps": "15-18" },
+      "advanced": { "sets": 4, "reps": "18-20" }
+    },
+    "description": {
+      "en": "Cable exercise for rear delts and upper back posture",
+      "es": "Ejercicio con polea para deltoides posterior y postura de espalda superior"
+    },
+    "tips": {
+      "en": "Pull to face level, squeeze shoulder blades, external rotation",
+      "es": "Tira hacia nivel de cara, aprieta omóplatos, rotación externa"
+    },
+    "alternatives": {
+      "en": ["Reverse fly", "Band pull-aparts", "Rear delt fly"],
+      "es": ["Aperturas invertidas", "Separaciones con banda", "Aperturas deltoides posterior"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=rep-qVOkqgk"
+  },
+  {
+    "name": {
+      "en": "Deadlifts",
+      "es": "Peso Muerto"
+    },
+    "category": "back_triceps",
+    "environment": "gym",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "5-8" },
+      "intermediate": { "sets": 3, "reps": "6-8" },
+      "advanced": { "sets": 4, "reps": "5-6" }
+    },
+    "description": {
+      "en": "Compound exercise working entire posterior chain",
+      "es": "Ejercicio compuesto que trabaja toda la cadena posterior"
+    },
+    "tips": {
+      "en": "Keep bar close, straight back, drive through heels",
+      "es": "Mantén barra cerca, espalda recta, empuja con talones"
+    },
+    "alternatives": {
+      "en": ["Romanian deadlifts", "Sumo deadlifts", "Trap bar deadlifts"],
+      "es": ["Peso muerto rumano", "Peso muerto sumo", "Peso muerto con barra hexagonal"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=ytGaGIn3SjE"
+  },
+  {
+    "name": {
+      "en": "Inverted Rows",
+      "es": "Remo Invertido"
+    },
+    "category": "back_triceps",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "8-10" },
+      "intermediate": { "sets": 3, "reps": "12-15" },
+      "advanced": { "sets": 4, "reps": "15-20" }
+    },
+    "description": {
+      "en": "Bodyweight rowing exercise using bar or suspension trainer",
+      "es": "Ejercicio de remo con peso corporal usando barra o trainer suspendido"
+    },
+    "tips": {
+      "en": "Keep body straight, pull chest to bar, squeeze shoulder blades",
+      "es": "Mantén cuerpo recto, tira pecho hacia barra, aprieta omóplatos"
+    },
+    "alternatives": {
+      "en": ["Bent over rows", "Cable rows", "Pull-ups"],
+      "es": ["Remo inclinado", "Remo en polea", "Dominadas"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=hXTc1mDnZCw"
+  },
+  {
+    "name": {
+      "en": "Squats",
+      "es": "Sentadillas"
+    },
+    "category": "legs_shoulders",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "10-12" },
+      "intermediate": { "sets": 3, "reps": "12-15" },
+      "advanced": { "sets": 4, "reps": "15-20" }
+    },
+    "description": {
+      "en": "Fundamental lower body compound exercise",
+      "es": "Ejercicio compuesto fundamental del tren inferior"
+    },
+    "tips": {
+      "en": "Keep chest up, knees behind toes, full range of motion",
+      "es": "Mantén pecho arriba, rodillas detrás de dedos, rango completo"
+    },
+    "alternatives": {
+      "en": ["Goblet squats", "Wall sits", "Leg press"],
+      "es": ["Sentadillas goblet", "Sentadillas en pared", "Prensa de piernas"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=Dy28eq2PjcM"
+  },
+  {
+    "name": {
+      "en": "Lunges",
+      "es": "Zancadas"
+    },
+    "category": "legs_shoulders",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "10 per leg" },
+      "intermediate": { "sets": 3, "reps": "12-15 per leg" },
+      "advanced": { "sets": 4, "reps": "15-20 per leg" }
+    },
+    "description": {
+      "en": "Unilateral lower body exercise targeting glutes and quads",
+      "es": "Ejercicio unilateral del tren inferior que trabaja glúteos y cuádriceps"
+    },
+    "tips": {
+      "en": "Keep front knee over ankle, back straight, step back up",
+      "es": "Mantén rodilla delantera sobre tobillo, espalda recta, regresa hacia arriba"
+    },
+    "alternatives": {
+      "en": ["Reverse lunges", "Walking lunges", "Step-ups"],
+      "es": ["Zancadas hacia atrás", "Zancadas caminando", "Subidas de escalón"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=QOVaHwm-Q6U"
+  },
+  {
+    "name": {
+      "en": "Shoulder Press",
+      "es": "Press de Hombros"
+    },
+    "category": "legs_shoulders",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "8-10" },
+      "intermediate": { "sets": 3, "reps": "10-12" },
+      "advanced": { "sets": 4, "reps": "12-15" }
+    },
+    "description": {
+      "en": "Overhead pressing movement for shoulder development",
+      "es": "Movimiento de press por encima para desarrollo de hombros"
+    },
+    "tips": {
+      "en": "Keep core tight, press overhead, control descent",
+      "es": "Mantén core tenso, presiona por encima, controla el descenso"
+    },
+    "alternatives": {
+      "en": ["Pike push-ups", "Handstand push-ups", "Lateral raises"],
+      "es": ["Flexiones pike", "Flexiones parado de manos", "Elevaciones laterales"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "name": {
+      "en": "Bulgarian Split Squats",
+      "es": "Sentadillas Búlgaras"
+    },
+    "category": "legs_shoulders",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "8 per leg" },
+      "intermediate": { "sets": 3, "reps": "10-12 per leg" },
+      "advanced": { "sets": 4, "reps": "12-15 per leg" }
+    },
+    "description": {
+      "en": "Single-leg squat variation with rear foot elevated",
+      "es": "Variación de sentadilla unilateral con pie trasero elevado"
+    },
+    "tips": {
+      "en": "Keep balance, front foot does the work, descend slowly",
+      "es": "Mantén equilibrio, pie delantero hace el trabajo, desciende lentamente"
+    },
+    "alternatives": {
+      "en": ["Lunges", "Step-ups", "Single-leg squats"],
+      "es": ["Zancadas", "Subidas de escalón", "Sentadillas a una pierna"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=2C-uNgKwPLE"
+  },
+  {
+    "name": {
+      "en": "Lateral Raises",
+      "es": "Elevaciones Laterales"
+    },
+    "category": "legs_shoulders",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "12-15" },
+      "intermediate": { "sets": 3, "reps": "15-18" },
+      "advanced": { "sets": 4, "reps": "18-20" }
+    },
+    "description": {
+      "en": "Isolation exercise for shoulder width and medial deltoids",
+      "es": "Ejercicio de aislamiento para ensanchar hombros y deltoides medios"
+    },
+    "tips": {
+      "en": "Lift to shoulder height, control descent, slight forward lean",
+      "es": "Levanta hasta altura de hombros, controla descenso, ligera inclinación adelante"
+    },
+    "alternatives": {
+      "en": ["Front raises", "Upright rows", "Cable lateral raises"],
+      "es": ["Elevaciones frontales", "Remo al mentón", "Elevaciones laterales en polea"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=3VcKaXpzqRo"
+  },
+  {
+    "name": {
+      "en": "Calf Raises",
+      "es": "Elevaciones de Talones"
+    },
+    "category": "legs_shoulders",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "15-20" },
+      "intermediate": { "sets": 3, "reps": "20-25" },
+      "advanced": { "sets": 4, "reps": "25-30" }
+    },
+    "description": {
+      "en": "Exercise targeting calf muscles and improving ankle stability",
+      "es": "Ejercicio que trabaja músculos de pantorrilla y mejora estabilidad del tobillo"
+    },
+    "tips": {
+      "en": "Full range of motion, pause at top, control descent",
+      "es": "Rango completo de movimiento, pausa arriba, controla descenso"
+    },
+    "alternatives": {
+      "en": ["Single-leg calf raises", "Seated calf raises", "Jump rope"],
+      "es": ["Elevaciones a una pierna", "Elevaciones sentado", "Saltar cuerda"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=gwLzBJYoWlI"
+  },
+  {
+    "name": {
+      "en": "Front Raises",
+      "es": "Elevaciones Frontales"
+    },
+    "category": "legs_shoulders",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "10-12" },
+      "intermediate": { "sets": 3, "reps": "12-15" },
+      "advanced": { "sets": 4, "reps": "15-18" }
+    },
+    "description": {
+      "en": "Anterior deltoid isolation exercise",
+      "es": "Ejercicio de aislamiento para deltoides anterior"
+    },
+    "tips": {
+      "en": "Keep arms slightly bent, raise to shoulder height, control movement",
+      "es": "Mantén brazos ligeramente flexionados, eleva hasta hombros, controla movimiento"
+    },
+    "alternatives": {
+      "en": ["Overhead press", "Pike push-ups", "Lateral raises"],
+      "es": ["Press de hombros", "Flexiones pike", "Elevaciones laterales"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=-t7fuZ0KhDA"
+  },
+  {
+    "name": {
+      "en": "Wall Sits",
+      "es": "Sentadillas en Pared"
+    },
+    "category": "legs_shoulders",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "30-45 seconds" },
+      "intermediate": { "sets": 3, "reps": "45-60 seconds" },
+      "advanced": { "sets": 4, "reps": "60-90 seconds" }
+    },
+    "description": {
+      "en": "Isometric exercise for leg strength and endurance",
+      "es": "Ejercicio isométrico para fuerza y resistencia de piernas"
+    },
+    "tips": {
+      "en": "Keep back against wall, thighs parallel to floor, breathe normally",
+      "es": "Mantén espalda contra pared, muslos paralelos al suelo, respira normal"
+    },
+    "alternatives": {
+      "en": ["Squats", "Leg press", "Lunges"],
+      "es": ["Sentadillas", "Prensa de piernas", "Zancadas"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=y-wV4Venusw"
+  },
+  {
+    "name": {
+      "en": "Plank",
+      "es": "Plancha"
+    },
+    "category": "core",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "30-45 seconds" },
+      "intermediate": { "sets": 3, "reps": "45-60 seconds" },
+      "advanced": { "sets": 4, "reps": "60-90 seconds" }
+    },
+    "description": {
+      "en": "Isometric core exercise that strengthens entire midsection",
+      "es": "Ejercicio isométrico de core que fortalece toda la sección media"
+    },
+    "tips": {
+      "en": "Keep body straight, engage core, breathe normally",
+      "es": "Mantén cuerpo recto, activa core, respira normalmente"
+    },
+    "alternatives": {
+      "en": ["Modified plank", "Side plank", "Dead bug"],
+      "es": ["Plancha modificada", "Plancha lateral", "Dead bug"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=ASdvN_XEl_c"
+  },
+  {
+    "name": {
+      "en": "Russian Twists",
+      "es": "Giros Rusos"
+    },
+    "category": "core",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "20-30" },
+      "intermediate": { "sets": 3, "reps": "30-40" },
+      "advanced": { "sets": 4, "reps": "40-50" }
+    },
+    "description": {
+      "en": "Rotational core exercise targeting obliques",
+      "es": "Ejercicio rotacional de core que trabaja oblicuos"
+    },
+    "tips": {
+      "en": "Keep feet elevated, rotate from core, control movement",
+      "es": "Mantén pies elevados, rota desde core, controla movimiento"
+    },
+    "alternatives": {
+      "en": ["Bicycle crunches", "Wood chops", "Side planks"],
+      "es": ["Bicicleta", "Golpes de hacha", "Planchas laterales"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=wkD8rjkodUI"
+  },
+  {
+    "name": {
+      "en": "Mountain Climbers",
+      "es": "Escaladores"
+    },
+    "category": "core",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "20-30" },
+      "intermediate": { "sets": 3, "reps": "30-40" },
+      "advanced": { "sets": 4, "reps": "40-60" }
+    },
+    "description": {
+      "en": "Dynamic core exercise that also provides cardio benefits",
+      "es": "Ejercicio dinámico de core que también proporciona beneficios cardiovasculares"
+    },
+    "tips": {
+      "en": "Keep hips level, alternate legs quickly, maintain plank position",
+      "es": "Mantén caderas niveladas, alterna piernas rápido, mantén posición de plancha"
+    },
+    "alternatives": {
+      "en": ["High knees", "Running in place", "Plank"],
+      "es": ["Rodillas altas", "Correr en el lugar", "Plancha"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=kLh-uczlPLg"
+  },
+  {
+    "name": {
+      "en": "Dead Bug",
+      "es": "Bicho Muerto"
+    },
+    "category": "core",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "10 per side" },
+      "intermediate": { "sets": 3, "reps": "12-15 per side" },
+      "advanced": { "sets": 4, "reps": "15-20 per side" }
+    },
+    "description": {
+      "en": "Core stability exercise focusing on opposite arm and leg coordination",
+      "es": "Ejercicio de estabilidad de core enfocado en coordinación brazo-pierna opuestos"
+    },
+    "tips": {
+      "en": "Keep lower back pressed to floor, move slowly, opposite limbs",
+      "es": "Mantén espalda baja pegada al suelo, muévete lento, extremidades opuestas"
+    },
+    "alternatives": {
+      "en": ["Bird dog", "Plank", "Leg raises"],
+      "es": ["Perro pájaro", "Plancha", "Elevaciones de piernas"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=hKW1_LY_kS4"
+  },
+  {
+    "name": {
+      "en": "Bicycle Crunches",
+      "es": "Bicicleta"
+    },
+    "category": "core",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "20-30" },
+      "intermediate": { "sets": 3, "reps": "30-40" },
+      "advanced": { "sets": 4, "reps": "40-60" }
+    },
+    "description": {
+      "en": "Dynamic abdominal exercise targeting rectus abdominis and obliques",
+      "es": "Ejercicio dinámico abdominal que trabaja recto abdominal y oblicuos"
+    },
+    "tips": {
+      "en": "Don't pull on neck, rotate from core, knee to opposite elbow",
+      "es": "No tires del cuello, rota desde core, rodilla hacia codo opuesto"
+    },
+    "alternatives": {
+      "en": ["Russian twists", "Regular crunches", "Leg raises"],
+      "es": ["Giros rusos", "Abdominales regulares", "Elevaciones de piernas"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=9FGilxCbdz8"
+  },
+  {
+    "name": {
+      "en": "Leg Raises",
+      "es": "Elevaciones de Piernas"
+    },
+    "category": "core",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "10-12" },
+      "intermediate": { "sets": 3, "reps": "12-15" },
+      "advanced": { "sets": 4, "reps": "15-20" }
+    },
+    "description": {
+      "en": "Lower abdominal exercise performed lying on back",
+      "es": "Ejercicio de abdominales inferiores realizado acostado boca arriba"
+    },
+    "tips": {
+      "en": "Keep lower back pressed down, raise legs slowly, control descent",
+      "es": "Mantén espalda baja presionada, eleva piernas lentamente, controla descenso"
+    },
+    "alternatives": {
+      "en": ["Knee raises", "Reverse crunches", "Dead bug"],
+      "es": ["Elevaciones de rodillas", "Abdominales invertidos", "Bicho muerto"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=JB2oyawG9KI"
+  },
+  {
+    "name": {
+      "en": "Side Plank",
+      "es": "Plancha Lateral"
+    },
+    "category": "core",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "20-30 seconds per side" },
+      "intermediate": { "sets": 3, "reps": "30-45 seconds per side" },
+      "advanced": { "sets": 4, "reps": "45-60 seconds per side" }
+    },
+    "description": {
+      "en": "Isometric exercise targeting obliques and lateral core stability",
+      "es": "Ejercicio isométrico que trabaja oblicuos y estabilidad lateral del core"
+    },
+    "tips": {
+      "en": "Keep body straight, stack feet, engage obliques",
+      "es": "Mantén cuerpo recto, apila pies, activa oblicuos"
+    },
+    "alternatives": {
+      "en": ["Modified side plank", "Russian twists", "Wood chops"],
+      "es": ["Plancha lateral modificada", "Giros rusos", "Golpes de hacha"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=K2VljzCC16g"
+  },
+  {
+    "name": {
+      "en": "Hollow Body Hold",
+      "es": "Posición Hueca"
+    },
+    "category": "core",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "20-30 seconds" },
+      "intermediate": { "sets": 3, "reps": "30-45 seconds" },
+      "advanced": { "sets": 4, "reps": "45-60 seconds" }
+    },
+    "description": {
+      "en": "Isometric exercise creating hollow position for core strength",
+      "es": "Ejercicio isométrico creando posición hueca para fuerza del core"
+    },
+    "tips": {
+      "en": "Press lower back to floor, lift shoulders and legs, breathe",
+      "es": "Presiona espalda baja al suelo, levanta hombros y piernas, respira"
+    },
+    "alternatives": {
+      "en": ["Dead bug", "Plank", "Leg raises"],
+      "es": ["Bicho muerto", "Plancha", "Elevaciones de piernas"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=LlDNef_Ztsc"
+  },
+  {
+    "name": {
+      "en": "Burpees",
+      "es": "Burpees"
+    },
+    "category": "cardio",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "5-8" },
+      "intermediate": { "sets": 3, "reps": "8-12" },
+      "advanced": { "sets": 4, "reps": "12-20" }
+    },
+    "description": {
+      "en": "Full-body explosive exercise combining squat, plank, and jump",
+      "es": "Ejercicio explosivo de cuerpo completo que combina sentadilla, plancha y salto"
+    },
+    "tips": {
+      "en": "Keep movement fluid, land softly, maintain form under fatigue",
+      "es": "Mantén movimiento fluido, aterriza suave, mantén forma bajo fatiga"
+    },
+    "alternatives": {
+      "en": ["Step-back burpees", "Half burpees", "Squat thrusts"],
+      "es": ["Burpees con paso atrás", "Medio burpees", "Thrusts de sentadilla"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=auBLPXO8Fww"
+  },
+  {
+    "name": {
+      "en": "Jumping Jacks",
+      "es": "Saltos de Tijera"
+    },
+    "category": "cardio",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "30-45 seconds" },
+      "intermediate": { "sets": 3, "reps": "45-60 seconds" },
+      "advanced": { "sets": 4, "reps": "60-90 seconds" }
+    },
+    "description": {
+      "en": "Classic cardio exercise with arm and leg coordination",
+      "es": "Ejercicio cardiovascular clásico con coordinación de brazos y piernas"
+    },
+    "tips": {
+      "en": "Land softly, keep rhythm, full arm extension overhead",
+      "es": "Aterriza suave, mantén ritmo, extensión completa de brazos arriba"
+    },
+    "alternatives": {
+      "en": ["Step touch", "Low-impact jacks", "Star jumps"],
+      "es": ["Paso y toque", "Tijeras bajo impacto", "Saltos estrella"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=UpH7rm0cYuM"
+  },
+  {
+    "name": {
+      "en": "High Knees",
+      "es": "Rodillas Altas"
+    },
+    "category": "cardio",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "30-45 seconds" },
+      "intermediate": { "sets": 3, "reps": "45-60 seconds" },
+      "advanced": { "sets": 4, "reps": "60-90 seconds" }
+    },
+    "description": {
+      "en": "Running in place with exaggerated knee lift",
+      "es": "Correr en el lugar con elevación exagerada de rodillas"
+    },
+    "tips": {
+      "en": "Drive knees to waist level, pump arms, stay on balls of feet",
+      "es": "Lleva rodillas al nivel de cintura, bombea brazos, mantente en punta de pies"
+    },
+    "alternatives": {
+      "en": ["Marching in place", "Mountain climbers", "Butt kickers"],
+      "es": ["Marchar en el lugar", "Escaladores", "Patadas al glúteo"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=8opcQdC-V-U"
+  },
+  {
+    "name": {
+      "en": "Box Steps",
+      "es": "Subidas de Escalón"
+    },
+    "category": "cardio",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "30-45 seconds" },
+      "intermediate": { "sets": 3, "reps": "45-60 seconds" },
+      "advanced": { "sets": 4, "reps": "60-90 seconds" }
+    },
+    "description": {
+      "en": "Step-up exercise using box, bench, or stairs for cardio",
+      "es": "Ejercicio de subida usando cajón, banco o escalones para cardio"
+    },
+    "tips": {
+      "en": "Full foot on box, step down controlled, alternate leading leg",
+      "es": "Pie completo en cajón, baja controlado, alterna pierna que lidera"
+    },
+    "alternatives": {
+      "en": ["Step-ups", "Stair climbing", "Lunges"],
+      "es": ["Subidas", "Subir escaleras", "Zancadas"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=dQqApCGd5Ss"
+  },
+  {
+    "name": {
+      "en": "Jump Rope",
+      "es": "Saltar Cuerda"
+    },
+    "category": "cardio",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "30-60 seconds" },
+      "intermediate": { "sets": 3, "reps": "60-90 seconds" },
+      "advanced": { "sets": 4, "reps": "90-120 seconds" }
+    },
+    "description": {
+      "en": "Classic cardio exercise using jump rope for coordination and endurance",
+      "es": "Ejercicio cardiovascular clásico usando cuerda para coordinación y resistencia"
+    },
+    "tips": {
+      "en": "Stay light on feet, rotate from wrists, keep elbows close",
+      "es": "Mantente ligero en pies, rota desde muñecas, mantén codos cerca"
+    },
+    "alternatives": {
+      "en": ["Imaginary jump rope", "Jumping jacks", "High knees"],
+      "es": ["Cuerda imaginaria", "Saltos de tijera", "Rodillas altas"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=FJmRQ5iTXKE"
+  },
+  {
+    "name": {
+      "en": "Butt Kickers",
+      "es": "Patadas al Glúteo"
+    },
+    "category": "cardio",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "30-45 seconds" },
+      "intermediate": { "sets": 3, "reps": "45-60 seconds" },
+      "advanced": { "sets": 4, "reps": "60-90 seconds" }
+    },
+    "description": {
+      "en": "Running motion kicking heels toward glutes",
+      "es": "Movimiento de carrera pateando talones hacia glúteos"
+    },
+    "tips": {
+      "en": "Keep thighs perpendicular, kick heels to glutes, pump arms",
+      "es": "Mantén muslos perpendiculares, patea talones a glúteos, bombea brazos"
+    },
+    "alternatives": {
+      "en": ["High knees", "Running in place", "Jumping jacks"],
+      "es": ["Rodillas altas", "Correr en el lugar", "Saltos de tijera"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=4RmJUhMSF7Q"
+  },
+  {
+    "name": {
+      "en": "Squat Jumps",
+      "es": "Saltos de Sentadilla"
+    },
+    "category": "cardio",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "8-12" },
+      "intermediate": { "sets": 3, "reps": "12-15" },
+      "advanced": { "sets": 4, "reps": "15-20" }
+    },
+    "description": {
+      "en": "Explosive squat variation adding vertical jump",
+      "es": "Variación explosiva de sentadilla agregando salto vertical"
+    },
+    "tips": {
+      "en": "Land softly, immediately go into next squat, use arms for momentum",
+      "es": "Aterriza suave, inmediatamente haz siguiente sentadilla, usa brazos para impulso"
+    },
+    "alternatives": {
+      "en": ["Regular squats", "Lunges", "Box jumps"],
+      "es": ["Sentadillas regulares", "Zancadas", "Saltos a cajón"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=CVaEhXotL7M"
+  },
+  {
+    "name": {
+      "en": "Bear Crawl",
+      "es": "Gateo de Oso"
+    },
+    "category": "cardio",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "20-30 seconds" },
+      "intermediate": { "sets": 3, "reps": "30-45 seconds" },
+      "advanced": { "sets": 4, "reps": "45-60 seconds" }
+    },
+    "description": {
+      "en": "Full-body movement crawling on hands and feet",
+      "es": "Movimiento de cuerpo completo gateando en manos y pies"
+    },
+    "tips": {
+      "en": "Keep knees low, move opposite hand and foot, core engaged",
+      "es": "Mantén rodillas bajas, mueve mano y pie opuestos, core activado"
+    },
+    "alternatives": {
+      "en": ["Mountain climbers", "Plank", "Crab walk"],
+      "es": ["Escaladores", "Plancha", "Caminar de cangrejo"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=Azrg8Kt0GZI"
+  }
+  ,
+  {
+    "name": {
+      "en": "Downward Dog",
+      "es": "Perro Boca Abajo"
+    },
+    "category": "yoga",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "30-45 seconds" },
+      "intermediate": { "sets": 3, "reps": "45-60 seconds" },
+      "advanced": { "sets": 4, "reps": "60-90 seconds" }
+    },
+    "description": {
+      "en": "Foundational yoga pose stretching hamstrings, calves, and shoulders while strengthening the core",
+      "es": "Postura fundamental de yoga que estira isquiotibiales, pantorrillas y hombros mientras fortalece el core"
+    },
+    "tips": {
+      "en": "Press heels toward floor, lengthen spine, relax neck",
+      "es": "Empuja talones hacia el suelo, alarga la columna, relaja el cuello"
+    },
+    "alternatives": {
+      "en": ["Puppy pose", "Forward fold", "Calf stretch"],
+      "es": ["Postura del cachorro", "Flexión hacia delante", "Estiramiento de pantorrillas"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=EC7RGJ0mziU"
+  },
+  {
+    "name": {
+      "en": "Cat-Cow",
+      "es": "Gato-Vaca"
+    },
+    "category": "yoga",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "8-10" },
+      "intermediate": { "sets": 3, "reps": "12-15" },
+      "advanced": { "sets": 4, "reps": "15-20" }
+    },
+    "description": {
+      "en": "Gentle flow between spinal flexion and extension to warm up the back",
+      "es": "Flujo suave entre flexión y extensión de la columna para calentar la espalda"
+    },
+    "tips": {
+      "en": "Synchronize movement with breath, move slowly and smoothly",
+      "es": "Sincroniza el movimiento con la respiración, muévete lento y suave"
+    },
+    "alternatives": {
+      "en": ["Pelvic tilt", "Child's pose", "Thread the needle"],
+      "es": ["Basculación pélvica", "Postura del niño", "Enhebrar la aguja"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=kqnua4rHVVA"
+  },
+  {
+    "name": {
+      "en": "Child's Pose",
+      "es": "Postura del Niño"
+    },
+    "category": "yoga",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "30-60 seconds" },
+      "intermediate": { "sets": 3, "reps": "60-90 seconds" },
+      "advanced": { "sets": 4, "reps": "90-120 seconds" }
+    },
+    "description": {
+      "en": "Restorative pose that gently stretches hips, thighs, and back",
+      "es": "Postura restaurativa que estira suavemente caderas, muslos y espalda"
+    },
+    "tips": {
+      "en": "Spread knees for deeper hip stretch, rest forehead on mat",
+      "es": "Separa las rodillas para mayor estiramiento de caderas, apoya la frente en la esterilla"
+    },
+    "alternatives": {
+      "en": ["Sphinx pose", "Seated forward fold", "Knees to chest"],
+      "es": ["Postura de la esfinge", "Flexión hacia delante sentado", "Rodillas al pecho"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=of2spyCtUkw"
+  },
+  {
+    "name": {
+      "en": "Warrior II",
+      "es": "Guerrero II"
+    },
+    "category": "yoga",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "20-30 seconds per side" },
+      "intermediate": { "sets": 3, "reps": "30-45 seconds per side" },
+      "advanced": { "sets": 4, "reps": "45-60 seconds per side" }
+    },
+    "description": {
+      "en": "Standing pose that builds leg strength and opens the hips and chest",
+      "es": "Postura de pie que fortalece piernas y abre caderas y pecho"
+    },
+    "tips": {
+      "en": "Keep front knee over ankle, reach actively through fingertips",
+      "es": "Mantén la rodilla delantera sobre el tobillo, alcanza activamente con las yemas de los dedos"
+    },
+    "alternatives": {
+      "en": ["Warrior I", "Reverse warrior", "Triangle pose"],
+      "es": ["Guerrero I", "Guerrero invertido", "Postura del triángulo"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=2rDna2tO2oM"
+  },
+  {
+    "name": {
+      "en": "Triangle Pose",
+      "es": "Postura del Triángulo"
+    },
+    "category": "yoga",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "20-30 seconds per side" },
+      "intermediate": { "sets": 3, "reps": "30-45 seconds per side" },
+      "advanced": { "sets": 4, "reps": "45-60 seconds per side" }
+    },
+    "description": {
+      "en": "Standing lateral stretch improving hamstring and hip flexibility",
+      "es": "Estiramiento lateral de pie que mejora la flexibilidad de isquiotibiales y caderas"
+    },
+    "tips": {
+      "en": "Lengthen both sides of waist, stack shoulders, look up if comfortable",
+      "es": "Alarga ambos lados de la cintura, alinea los hombros, mira hacia arriba si es cómodo"
+    },
+    "alternatives": {
+      "en": ["Extended side angle", "Pyramid pose", "Half moon"],
+      "es": ["Ángulo lateral extendido", "Postura de la pirámide", "Media luna"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=8qJY1U5g2gY"
+  },
+  {
+    "name": {
+      "en": "Bridge Pose",
+      "es": "Postura del Puente"
+    },
+    "category": "yoga",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "20-30 seconds" },
+      "intermediate": { "sets": 3, "reps": "30-45 seconds" },
+      "advanced": { "sets": 4, "reps": "45-60 seconds" }
+    },
+    "description": {
+      "en": "Backbend that strengthens glutes and hamstrings while opening the chest",
+      "es": "Flexión hacia atrás que fortalece glúteos e isquiotibiales mientras abre el pecho"
+    },
+    "tips": {
+      "en": "Press through heels, engage glutes, avoid over-arching lower back",
+      "es": "Presiona con los talones, activa glúteos, evita arquear en exceso la zona lumbar"
+    },
+    "alternatives": {
+      "en": ["Glute bridge", "Wheel pose (advanced)", "Camel pose"],
+      "es": ["Puente de glúteos", "Rueda (avanzado)", "Postura del camello"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=ll9y1A4g1k0"
+  },
+  {
+    "name": {
+      "en": "Cobra Pose",
+      "es": "Postura de la Cobra"
+    },
+    "category": "yoga",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "15-20 seconds" },
+      "intermediate": { "sets": 3, "reps": "20-30 seconds" },
+      "advanced": { "sets": 4, "reps": "30-45 seconds" }
+    },
+    "description": {
+      "en": "Gentle backbend that opens the chest and strengthens the spine",
+      "es": "Flexión suave hacia atrás que abre el pecho y fortalece la columna"
+    },
+    "tips": {
+      "en": "Keep elbows close, lift chest forward and up, relax shoulders",
+      "es": "Mantén codos cerca, eleva el pecho hacia adelante y arriba, relaja hombros"
+    },
+    "alternatives": {
+      "en": ["Sphinx pose", "Upward facing dog (advanced)", "Child's pose"],
+      "es": ["Postura de la esfinge", "Perro mirando arriba (avanzado)", "Postura del niño"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=JDcdhTuycOI"
+  },
+  {
+    "name": {
+      "en": "Seated Forward Fold",
+      "es": "Flexión hacia Delante Sentado"
+    },
+    "category": "yoga",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "20-30 seconds" },
+      "intermediate": { "sets": 3, "reps": "30-45 seconds" },
+      "advanced": { "sets": 4, "reps": "45-60 seconds" }
+    },
+    "description": {
+      "en": "Hamstring and lower back stretch promoting relaxation",
+      "es": "Estiramiento de isquiotibiales y zona lumbar que favorece la relajación"
+    },
+    "tips": {
+      "en": "Hinge from hips, keep spine long, use strap around feet if needed",
+      "es": "Flexiona desde las caderas, mantiene la columna larga, usa una correa en los pies si es necesario"
+    },
+    "alternatives": {
+      "en": ["Standing forward fold", "Half split", "Happy baby"],
+      "es": ["Flexión hacia delante de pie", "Media abertura", "Bebé feliz"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=GPr0uPp9rXQ"
+  },
+  {
+    "name": {
+      "en": "Thread the Needle",
+      "es": "Enhebrar la Aguja"
+    },
+    "category": "yoga",
+    "environment": "both",
+    "difficulty": {
+      "beginner": { "sets": 3, "reps": "20-30 seconds per side" },
+      "intermediate": { "sets": 3, "reps": "30-45 seconds per side" },
+      "advanced": { "sets": 4, "reps": "45-60 seconds per side" }
+    },
+    "description": {
+      "en": "Shoulder and upper back stretch done on hands and knees",
+      "es": "Estiramiento de hombros y espalda alta realizado en manos y rodillas"
+    },
+    "tips": {
+      "en": "Keep hips stacked over knees, relax head and neck",
+      "es": "Mantén caderas sobre las rodillas, relaja cabeza y cuello"
+    },
+    "alternatives": {
+      "en": ["Eagle arms", "Cross-body shoulder stretch", "Cat-cow"],
+      "es": ["Brazos de águila", "Estiramiento de hombro cruzado", "Gato-vaca"]
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=2t0G6bKz2zE"
+  }
+]

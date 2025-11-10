@@ -1,0 +1,38 @@
+{
+  "name": "gymbot",
+  "version": "1.0.0",
+  "description": "Telegram bot for personalized gym workout routines with multilanguage support",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "echo 'No build step required'",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node src/utils/seedDatabase.js",
+    "seed-full": "node src/utils/seedFullDatabase.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "fitness",
+    "gym",
+    "workout",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Federico",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongodb": "^7.0.0",
+    "mongoose": "^8.0.0",
+    "node-cron": "^3.0.3",
+    "telegraf": "^4.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
